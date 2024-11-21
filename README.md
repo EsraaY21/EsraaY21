@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Esraa, a Web Developer with focus on React and Frontend-end.
+I am Esraa, a Web Developer with focus on React and Frontend.
 
 
 ### 🛠 &nbsp;Tech Stack
